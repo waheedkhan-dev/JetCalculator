@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JetCalculator</string>
+    <string name="dark_mode_icon">Dark Mode Icon</string>
 </resources>
