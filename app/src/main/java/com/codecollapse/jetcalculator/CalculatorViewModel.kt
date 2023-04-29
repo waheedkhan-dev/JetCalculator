@@ -51,7 +51,7 @@ class CalculatorViewModel : ViewModel() {
                 CalculatorOperation.Multiply -> number1.times(number2)
                 null -> return
             }
-            state = state.copy(number1 = result.toString().take(15), number2 = "", operation = null)
+            state = state.copy(number1 = result.toString().take(8), number2 = "", operation = null)
         }
 
     }

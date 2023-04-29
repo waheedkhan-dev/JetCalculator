@@ -1,6 +1,5 @@
 package com.codecollapse.jetcalculator.ui.theme
 
-import android.widget.Switch
 import androidx.compose.ui.graphics.Color
 
 val Purple80 = Color(0xFFD0BCFF)
@@ -17,7 +16,8 @@ val LightGray = Color(0xFF818181)
 val Orange = Color(0xFFFF9800)
 
 val Switch1 = Color(0xFFF9F9F9)
-val Switch2 = Color(0xFFF7F7F7)
+val Switch2 = Color(0xFFf1f1f1)
 val Switch3 = Color(0xFFF6F6F6)
-val TextColorLightGreen = Color(0xFF41FAD8)
+val Switch4 = Color(0xFF363E3C)
+val TextColorLightGreen = Color(0xFF2EC4B6)
 val TextColorLightRed = Color(0xFFF37979)
