@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">JetCalculator</string>
     <string name="dark_mode_icon">Dark Mode Icon</string>
+    <string name="light_mode_icon">Light Mode Icon</string>
+    <string name="remove_single_character">remove single character</string>
 </resources>

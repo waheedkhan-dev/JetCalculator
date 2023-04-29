@@ -27,7 +27,7 @@ class MainActivity : ComponentActivity() {
                     state = state,
                     modifier = Modifier
                         .fillMaxSize()
-                        .background(color = MediumGray).padding(16.dp),
+                        .padding(0.dp),
                     onAction = viewModel::onAction,
                     buttonSpacing = buttonSpacing
                 )
